@@ -22,24 +22,4 @@ ul{
     border-bottom: 1px solid #212121;
   }
 
-  .card-1 {
-    background-image: url("./images/card-1.png");
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
-
-  .card-2 {
-    margin-top: 22px;
-    background-image: url("./images/card-2.png");
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
-  .card-3 {
-    margin-top: 22px;
-    background-image: url("./images/card-3.png");
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
+ 
