@@ -1,0 +1,15 @@
+.border-right {
+    display: flex;
+    flex: 1;
+    height: 0;
+    margin-top: 26px;
+    border-bottom: 1px solid #212121;
+  }
+
+  .about-me {
+    height: 100vh;
+    background-image: url(./images/about-background-image.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 100%;
+ }
